@@ -1,2 +1,2 @@
-# Douglas-s-Bootstrap-Assignment
+# Douglas-Bootstrap-Assignment
 This is the code of my bootstrap assignment.
